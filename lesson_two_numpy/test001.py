@@ -1,6 +1,3 @@
-a = r"""Last summer, my family and I had a wonderful vacation at the beach. We traveled to a beautiful coastal city and stayed in a small hotel near the sea. Every morning, we watched the sunrise and took a walk along the shore. During the day, we swam in the ocean, built sandcastles, and enjoyed delicious seafood. In the evening, we explored the night market and bought some souvenirs. The weather was perfect, and we had so much fun together. It was a memorable trip, and I hope we can go on another vacation like this in the future.
-
-"""
-a = a.split(' ')
-print(a)
-print(f"so luong chu da viet {len(a)}")
+# Danh sách các số  
+numbers = r"""at the last yearend, I went to the wedding of my sister at the restaurant. there was a lot of people. I felt funny when I saw my sister was happen. The wedding had 100 food tables. It had many good food. I liked fry fish, roast chicken and beef soup. the groom opened red wise while I war eating a big toast foot beef. We took photos when The guest was sang a song "we didn't belong together ...". When the relatives and marred couple were talking about the wedding, the restaurant brought out the next food. When the guests were starting, I was eating end food. """
+print(len(numbers.split(" ")))
